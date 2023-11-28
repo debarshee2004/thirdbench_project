@@ -298,7 +298,7 @@ const ConnectThree: React.FC = () => {
       <div id="large-header" className="large-header">
         <canvas id="demo-canvas"></canvas>
         <div className="main-title">
-          <h1 className="text-4xl">
+          <h1 className="text-8xl">
             <span className="thin">The</span> Third{" "}
             <span className="thin">Bench</span>
           </h1>

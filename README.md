@@ -1,2 +1,1 @@
-# iot_finalproject
-Final Year Project about IOT.
+# THE THIRD BENCH - FINAL YEAR IOT PROJECT
