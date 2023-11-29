@@ -306,8 +306,7 @@ const ConnectThree: React.FC = () => {
         </div>
       </div>
       <div>
-        <h1>hello</h1>
-        <h1>world</h1>
+        <h1>Hello World</h1>
       </div>
     </>
   );
