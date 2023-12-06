@@ -29,6 +29,10 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+body::-webkit-scrollbar{
+  display: none;
+}
+
 /* The code you provided is written in CSS and defines styles for a large header section on a webpage.
 Let's break down each part: */
 .large-header {
