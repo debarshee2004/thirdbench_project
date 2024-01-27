@@ -1,10 +1,10 @@
-import ConnectThree from "./components/ConnectThree";
+import { ConnectThree } from "@components";
 import React from "react";
 
 const page = () => {
   return (
     <main>
-      <ConnectThree />
+      <ConnectThree/>
       <div>
         <h1>Hello World</h1>
       </div>
